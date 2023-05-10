@@ -1,0 +1,11 @@
+from,to,relationship 
+UL,LK,1
+UL,NR,2
+UL,SW,1
+UL,CS,1
+LK,NR,1
+LK,SW,1
+LK,CS,1
+NR,SW,1
+NR,CS,1
+SW,CS,2
